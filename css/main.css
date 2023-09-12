@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffa72a;
+  background: #fff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2659,4 +2659,18 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+body {
+  background: url("/images/blue_skies_v01");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.site-title {
+  font-size: 40px !important;
+  font-family: 'Zitiming' !important;
+}
+.site-meta {
+  background: #00f;
 }
