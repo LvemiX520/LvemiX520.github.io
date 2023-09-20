@@ -4,19 +4,60 @@
   
     
     <entry>
-      <title>標籤</title>
-      <link href="/2023/09/13/2023-9-13%20%E6%B5%8B%E8%AF%95/"/>
-      <url>/2023/09/13/2023-9-13%20%E6%B5%8B%E8%AF%95/</url>
+      <title>Eclipse下载与安装（汉化教程）超详细</title>
+      <link href="/2023/09/21/eclipse%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85/"/>
+      <url>/2023/09/21/eclipse%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="测试第一篇文章"><a href="#测试第一篇文章" class="headerlink" title="测试第一篇文章"></a>测试第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
       
       
       <categories>
+          
+          <category> Eclipse </category>
           
           <category> 教程 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Eclipse </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java JDK下载安装及环境配置教程</title>
+      <link href="/2023/09/20/JDK%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+      <url>/2023/09/20/JDK%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> JDK </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> JDK </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
       
     </entry>
     
