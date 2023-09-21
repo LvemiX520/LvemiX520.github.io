@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Java JDK下载安装及环境配置教程</title>
+      <link href="/posts/5e4bac410b44/"/>
+      <url>/posts/5e4bac410b44/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="JDK下载"><a href="#JDK下载" class="headerlink" title="JDK下载"></a>JDK下载</h2><h3 id="进入oracle"><a href="#进入oracle" class="headerlink" title="进入oracle"></a>进入oracle</h3><p>打开浏览器输入网址<a href="https://www.oracle.com/java/technologies/downloads/#jdk21-">https://www.oracle.com/java/technologies/downloads/#jdk21-</a><br>在该界面可以找到各种版本的JDK，选择自己需要的版本进行下载即可。在这里本人选择JDK21的 X64<br><img src="https://s2.loli.net/2023/09/21/Ax9aGXTgdQOrRVq.png" alt="JDK21_1.png"></p><h2 id="JDK安装"><a href="#JDK安装" class="headerlink" title="JDK安装"></a>JDK安装</h2><p>下载完JDK到本地后，找到该文件，双击运行JDK安装程序</p><p><img src="https://s2.loli.net/2023/09/21/QdLsgm6v4YHqXSW.png" alt="JDK21_2.png"></p><p>等待一会，进入JDK安装界面，点击下一步</p><p><img src="https://s2.loli.net/2023/09/21/KQa9JjuyMi13BYd.png" alt="JDK21_3.png"></p><p>可以直接默认目录，点击下一步。也可以自定义路径，先创建一个文件夹名为 Java，再在该文件夹下创建一个文件夹为 JDK 安装目录</p><p><img src="https://s2.loli.net/2023/09/21/tvCNrAKsZ9SlcEx.png" alt="JDK21_4.png"></p><p>至此JDK已经安装完毕，点击关闭</p><p><img src="https://s2.loli.net/2023/09/21/lvnL7R5cdrHPweq.png" alt="JDK21_5.png"></p><h2 id="JDK配置"><a href="#JDK配置" class="headerlink" title="JDK配置"></a>JDK配置</h2><p>win+R，在输入框输入<code>sysdm.cpl</code></p><p><img src="https://s2.loli.net/2023/09/21/e29VfYWiFGTKnxy.png" alt="JDK21_6.png"></p><p>打开环境变量</p><p><img src="https://s2.loli.net/2023/09/21/fsY4kCqplS7aTxX.png" alt="JDK21_7.png"></p><p>点击新建，变量名为<code>JAVA_HOME</code>,变量值为刚刚JDK安装的路径，点击确定</p><p><img src="https://s2.loli.net/2023/09/21/waRolYjE7CPtfbB.png" alt="JDK21_8.png"></p><p>双击 <code>path</code>进入界面后，点击编辑</p><p><img src="https://s2.loli.net/2023/09/21/Jbn5R61hpeIWTlS.png" alt="JDK21_9.png"></p><p>新建输入<code>%JAVA_HOME%\bin</code></p><p><img src="https://s2.loli.net/2023/09/21/eP5BXb2W1whSujO.png" alt="JDK21_10.png"></p><h2 id="查看配置是否成功"><a href="#查看配置是否成功" class="headerlink" title="查看配置是否成功"></a>查看配置是否成功</h2><p>点击确定，全部确定退出后，依旧按 Win+R，输入 cmd 进入命令提示符界面，输入 <code>java -version</code>，出现下面这个配置成功</p><p><img src="https://s2.loli.net/2023/09/21/wAGty8qNEPYfFue.png" alt="JDK21_11.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> JDK </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> JDK </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Eclipse下载与安装（汉化教程）超详细</title>
       <link href="/posts/5c75dbbe953a/"/>
       <url>/posts/5c75dbbe953a/</url>
@@ -23,35 +52,6 @@
             <tag> 教程 </tag>
             
             <tag> Eclipse </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Java JDK下载安装及环境配置教程</title>
-      <link href="/posts/c521fc349532/"/>
-      <url>/posts/c521fc349532/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="JDK下载"><a href="#JDK下载" class="headerlink" title="JDK下载"></a>JDK下载</h2><h3 id="进入oracle"><a href="#进入oracle" class="headerlink" title="进入oracle"></a>进入oracle</h3><p>打开浏览器输入网址<a href="https://www.oracle.com/java/technologies/downloads/#jdk21-">https://www.oracle.com/java/technologies/downloads/#jdk21-</a><br>在该界面可以找到各种版本的JDK，选择自己需要的版本进行下载即可。在这里本人选择JDK21的 X64<br><img src="https://s2.loli.net/2023/09/21/Ax9aGXTgdQOrRVq.png" alt="JDK21_1.png"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> JDK </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-            <tag> JDK </tag>
-            
-            <tag> 教程 </tag>
             
         </tags>
       
