@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Eclipse下载与安装（汉化教程）超详细</title>
+      <link href="/posts/aa62cbe2a977/"/>
+      <url>/posts/aa62cbe2a977/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="下载eclipse安装包"><a href="#下载eclipse安装包" class="headerlink" title="下载eclipse安装包"></a>下载eclipse安装包</h2><p>首先进入<code>eclipse官网</code><a href="https://www.eclipse.org/downloads/packages/">https://www.eclipse.org/downloads/packages/</a></p><p><img src="https://s2.loli.net/2023/09/21/yTjYX6crq7N12KE.png" alt="eclipse_1.png"></p><p>这里面有很多版本；我们小白一般选择第二个，向下滑动，选择Windows（根据自己的系统选择）</p><p><img src="https://s2.loli.net/2023/09/21/keDEfOxApt8JF1V.png" alt="eclipse_2.png"></p><p>这里我们切换镜像下载，一般选择离你最近的地址下载。<br>我建议选择<code>大连东软信息学院</code><br>如果不切换镜像的话，下载会很慢</p><p><img src="https://s2.loli.net/2023/09/21/MU1zdEIeScYORi7.png" alt="eclipse_3.png"></p><p>点击之后，会跳转到如下页面，（这是一个打赏页面，不用付钱） 稍等片刻就会开始下载了<br>如果还没有下载，如下图所示，点击 <code>click here</code></p><p><img src="https://s2.loli.net/2023/09/21/7Por93WDGKSwZTU.png" alt="eclipse_4.png"></p><h3 id="安装eclipse（免安装版）"><a href="#安装eclipse（免安装版）" class="headerlink" title="安装eclipse（免安装版）"></a>安装eclipse（免安装版）</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> Eclipse </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Eclipse </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java JDK下载安装及环境配置教程</title>
       <link href="/posts/5e4bac410b44/"/>
       <url>/posts/5e4bac410b44/</url>
@@ -20,38 +47,11 @@
       
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> Java </tag>
             
             <tag> JDK </tag>
-            
-            <tag> 教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Eclipse下载与安装（汉化教程）超详细</title>
-      <link href="/posts/5c75dbbe953a/"/>
-      <url>/posts/5c75dbbe953a/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> Eclipse </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 教程 </tag>
-            
-            <tag> Eclipse </tag>
             
         </tags>
       
