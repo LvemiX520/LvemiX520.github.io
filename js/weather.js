@@ -1,0 +1,1 @@
+WIDGET={CONFIG:{modules:"01234",background:"5",tmpColor:"FFFFFF",tmpSize:"16",cityColor:"FFFFFF",citySize:"16",aqiColor:"FFFFFF",aqiSize:"16",weatherIconSize:"24",alertIconSize:"18",padding:"10px 60px 6px 10px",shadow:"0",language:"auto",fixed:"false",vertical:"top",horizontal:"left",key:"4c026b72a6ae4e858d4e5df927f4b99a"}};
