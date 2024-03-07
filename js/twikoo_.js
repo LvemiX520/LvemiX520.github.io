@@ -1,0 +1,1 @@
+twikoo.init({envId:"https://cute-muffin-affcc1.netlify.app/.netlify/functions/twikoo",el:"#twikoo"});
