@@ -15,8 +15,6 @@
           
           <category> 数据库 </category>
           
-          <category> 笔记 </category>
-          
       </categories>
       
       
@@ -42,8 +40,6 @@
           
           <category> 前端 </category>
           
-          <category> 笔记 </category>
-          
       </categories>
       
       
@@ -60,7 +56,7 @@
     
     
     <entry>
-      <title>Vue3个人笔记</title>
+      <title>Vue3笔记</title>
       <link href="/posts/bfa9c32c55fd/"/>
       <url>/posts/bfa9c32c55fd/</url>
       
@@ -70,8 +66,6 @@
       <categories>
           
           <category> 前端 </category>
-          
-          <category> 笔记 </category>
           
       </categories>
       
@@ -87,7 +81,7 @@
     
     
     <entry>
-      <title>JS个人笔记</title>
+      <title>JavaScript笔记</title>
       <link href="/posts/4dfb3d88cd1e/"/>
       <url>/posts/4dfb3d88cd1e/</url>
       
@@ -97,8 +91,6 @@
       <categories>
           
           <category> 前端 </category>
-          
-          <category> 笔记 </category>
           
       </categories>
       
@@ -125,8 +117,6 @@
           
           <category> 前端 </category>
           
-          <category> 笔记 </category>
-          
       </categories>
       
       
@@ -136,8 +126,6 @@
             
             <tag> Sass </tag>
             
-            <tag> Scss </tag>
-            
         </tags>
       
     </entry>
@@ -145,7 +133,7 @@
     
     
     <entry>
-      <title>HTML</title>
+      <title>HTML笔记</title>
       <link href="/posts/50612cedd73d/"/>
       <url>/posts/50612cedd73d/</url>
       
@@ -155,8 +143,6 @@
       <categories>
           
           <category> 前端 </category>
-          
-          <category> 笔记 </category>
           
       </categories>
       
