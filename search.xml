@@ -15,8 +15,6 @@
           
           <category> 数据库 </category>
           
-          <category> 后端开发 </category>
-          
       </categories>
       
       
@@ -47,9 +45,7 @@
       
         <tags>
             
-            <tag> Axios </tag>
-            
-            <tag> Javascript </tag>
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -73,6 +69,8 @@
       
       
         <tags>
+            
+            <tag> 前端 </tag>
             
             <tag> Vue3 </tag>
             
@@ -99,7 +97,7 @@
       
         <tags>
             
-            <tag> Javascript </tag>
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -124,7 +122,7 @@
       
         <tags>
             
-            <tag> CSS </tag>
+            <tag> 前端 </tag>
             
             <tag> Sass </tag>
             
@@ -151,7 +149,7 @@
       
         <tags>
             
-            <tag> HTML </tag>
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -175,6 +173,8 @@
       
       
         <tags>
+            
+            <tag> 后端 </tag>
             
             <tag> Java </tag>
             
